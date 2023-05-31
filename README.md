@@ -4,7 +4,7 @@ The dataset used in this project contains information on different car models so
 
 # Approach
 
-In this project, random forest is used as the predictive modeling technique to estimate car prices. The goal is to identify the variables that significantly influence car prices and develop a model that accurately predicts the price based on these variables.Finally,deploy the Model using a web service - Using Flask web framework to deploy our trained model on Heroku
+In this project, random forest is used as the predictive modeling technique to estimate car prices. The goal is to identify the variables that significantly influence car prices and develop a model that accurately predicts the price based on these variables.Finally,deploy the Model using a web service - Using Flask web framework to deploy the trained model on Heroku
 
 # Methodology
 
