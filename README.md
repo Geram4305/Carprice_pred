@@ -15,3 +15,12 @@ In this project, random forest is used as the predictive modeling technique to e
 5. Model Evaluation: Assessed the performance of the predictive model using evaluation metrics such as negative mean squared error (NMSE),
 6. Model Integration: To make the model accessible and user-friendly,integrated it into a web application using Flask, a Python web framework. The web application allows users to input car specifications and obtain price predictions based on the trained model.
 8. Model Deployment: The model, along with the Flask web application, is deployed on a heroku, a cloud platform for easy access.
+
+## Update
+## Heroku App (Deprecated)
+
+Please note that the Heroku app for this project has been deleted. Due to ongoing charges and other considerations, the decision was made to remove the app from Heroku's platform.
+
+As a result, the app is no longer accessible via the previously provided URL. However, you can still explore the project's source code and run it locally until an alternate solution is updated.
+
+
